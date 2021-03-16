@@ -1,6 +1,7 @@
 **/data/
 add_toc.py
 
+*/.vscode/*
 
 # Created by https://www.gitignore.io/api/jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=jupyternotebooks
